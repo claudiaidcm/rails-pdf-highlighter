@@ -37,7 +37,7 @@ A lightweight Ruby on Rails **8.0** application that extracts text from uploaded
    rails s
    ```
 
-4. Run the processor   
+4. Run the text extractor for the example file "document.pdf"
    👉 [http://localhost:3000/process_pdf](http://localhost:3000/process_pdf)
 
 ---
@@ -78,18 +78,6 @@ When you upload or process a PDF, the API returns structured text data like this
   }
 ]
 ```
-
----
-
-## 🧪 API Endpoint Example
-
-**POST /pdf/process**
-
-| Parameter | Type | Description |
-|------------|------|-------------|
-| `file` | PDF | The PDF file to process |
-
-**Response:** JSON structure with pages, line coordinates, and text groups.
 
 ---
 
