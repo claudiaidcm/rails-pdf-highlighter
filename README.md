@@ -37,8 +37,10 @@ A lightweight Ruby on Rails **8.0** application that extracts text from uploaded
    rails s
    ```
 
-4. Run the text extractor for the example file "document.pdf"
-   👉 [http://localhost:3000/process_pdf](http://localhost:3000/process_pdf)
+4. **Test the app**
+    ```
+    http://localhost:3000/process_pdf
+   ```
 
 ---
 
