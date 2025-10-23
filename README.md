@@ -37,8 +37,8 @@ A lightweight Ruby on Rails **8.0** application that extracts text from uploaded
    rails s
    ```
 
-4. Visit the app at  
-   👉 [http://localhost:3000](http://localhost:3000)
+4. Run the processor   
+   👉 [http://localhost:3000/process_pdf](http://localhost:3000/process_pdf)
 
 ---
 
