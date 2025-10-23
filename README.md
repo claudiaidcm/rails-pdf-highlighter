@@ -1,4 +1,4 @@
-# 📄 Rails PDF Highlighter
+# 📄 Rails PDF Text Extractor
 
 A lightweight Ruby on Rails **8.0** application that extracts text from uploaded PDF files and returns the structured content as JSON.
 
