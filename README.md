@@ -8,7 +8,6 @@ A lightweight Ruby on Rails **8.0** application that extracts text from uploaded
 
 - Extracts text from uploaded PDFs using the [`pdf-reader`](https://github.com/yob/pdf-reader) gem  
 - Returns extracted text in structured JSON format (with page, line, and coordinate details)
-- Simple API endpoint (e.g., `/pdf/process`) for easy integration
 
 ---
 
